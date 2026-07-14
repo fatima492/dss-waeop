@@ -70,17 +70,17 @@ python reproduce_all.py --figures
 ```
 
 Outputs:
-- `results/figures/fig01_gaps_contributions.png` — Figure 1
-- `results/figures/fig02_architecture.png`        — Figure 2
-- `results/figures/fig03_energy.png`              — Figure 3 (Table 8 data)
-- `results/figures/fig04_coverage.png`            — Figure 4 (Table 9 data)
-- `results/figures/fig05_field_scaling.png`       — Figure 5
-- `results/figures/fig06_sigma_sensitivity.png`   — Figure 6
-- `results/figures/fig07_ablation.png`            — Figure 7 (Table 7 data)
-- `results/tables/table08_energy.csv`             — Table 8
-- `results/tables/table07_ablation.csv`           — Table 7
-- `results/tables/table_boundary_fractions.csv`   — Table 13 (Proposition 3.10)
-- `results/tables/suppl_ou_parameters.csv`        — Supplementary Table S1
+- `results/figures/fig01_gaps_contributions.png`  Figure 1
+- `results/figures/fig02_architecture.png`        Figure 2
+- `results/figures/fig03_energy.png`              Figure 3 (Table 8 data)
+- `results/figures/fig04_coverage.png`            Figure 4 (Table 9 data)
+- `results/figures/fig05_field_scaling.png`       Figure 5
+- `results/figures/fig06_sigma_sensitivity.png`   Figure 6
+- `results/figures/fig07_ablation.png`            Figure 7 (Table 7 data)
+- `results/tables/table08_energy.csv`             Table 8
+- `results/tables/table07_ablation.csv`           Table 7
+- `results/tables/table_boundary_fractions.csv`   Table 13 (Proposition 3.10)
+- `results/tables/suppl_ou_parameters.csv`        Supplementary Table S1
 
 ### Option B: Quick validation (20 scenarios × 3 reps, ~5–15 min)
 
@@ -181,10 +181,6 @@ hourly reanalysis data (2015–2024) for the Punjab agricultural region of Pakis
 If you use this framework or code, please cite the manuscript. A BibTeX entry will be added here once publication details are finalized.
 ```
 
----
-
 ## License
 
 This project is released under the **MIT License** see `LICENSE` for details.
-
----
